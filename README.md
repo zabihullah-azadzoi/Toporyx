@@ -1,6 +1,15 @@
 # Toporyx
 
-Toporyx is a topology and systems-diagram editor built with React, Vite, and Firebase.
+Initial public release of Toporyx, an open-source topology and system architecture editor for software engineers, cloud architects, and system designers.build with React, Vite, and Firebase.
+
+- Interactive diagram editor
+- Local-first diagram persistence
+- Firebase authentication
+- Cloud synchronization with Firestore
+- Production deployment support
+- React + Vite based architecture
+
+![Toporyx Demo](docs/toporyx.gif)
 
 ## Development
 
@@ -43,3 +52,17 @@ Important variables:
 - `VITE_FIREBASE_MESSAGING_SENDER_ID`
 - `VITE_FIREBASE_APP_ID`
 - `VITE_FIREBASE_MEASUREMENT_ID`
+
+## Open Source
+
+Toporyx is open source and available for developers, engineers, and system designers who want to create clean topology and system architecture diagrams.
+
+The project is actively maintained, and contributions are welcome. You can help by:
+
+- Reporting bugs
+- Suggesting new features
+- Improving documentation
+- Sharing example diagrams
+- Contributing code improvements
+
+If you want to contribute, please open an issue first so we can discuss the idea before implementation.
